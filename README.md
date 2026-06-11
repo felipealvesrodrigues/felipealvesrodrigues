@@ -22,7 +22,7 @@
 <h3 align="center">Find me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/felipealvesr/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" "width="70px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="70px"/>
   </a>
 </div>
 
