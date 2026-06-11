@@ -1,4 +1,4 @@
-<h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙵𝚎𝚕𝚒𝚙e <img src="./assets/menacing.svg" width="150" alt="JoJo"></h1> 
+<h1 align="center">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙵𝚎𝚕𝚒𝚙e <img src="./assets/menacing.svg" width="150" alt="JoJo"></h1> 
 
 <p align="center">𝙰 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙱𝚛𝚊𝚣𝚒𝚕 </p>
 
